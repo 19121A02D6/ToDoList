@@ -1,0 +1,168 @@
+PS C:\Users\Reneee\Desktop\ToDoList>  & 'C:\Program Files\Java\jdk-20\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Reneee\AppData\Roaming\Code\User\workspaceStorage\f78ab876ba956a595e73a8c2ec0af8f5\redhat.java\jdt_ws\ToDoList_ca7c4a1d\bin' 'main' 
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+1
+Enter the task title: 
+karunakar_task1 
+Enter the task description: Wash clothes
+Enter task date (YYYY-MM-DD): 
+2024-05-25
+task added Successfully
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? : 
+1
+Enter the task title: 
+learning 
+Enter the task description: complete learning java
+Enter task date (YYYY-MM-DD): 
+2024-04-22
+task added Successfully
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+3
+Task = 1
+karunakar_task1 (not completed)
+Description: Wash clothes
+Due Date: 2024-05-25
+
+Task = 2
+learning (not completed)
+Description: complete learning java
+Due Date: 2024-04-22
+
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+2
+Enter the task number to edit:
+2
+Enter the new task title:
+java
+Enter task description:
+I learned java 
+Enter the new task due date (YYYY-MM-DD):
+2024-04-22
+Task edited successfully.
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+5
+Enter the task number to mark complete:
+2
+Task marked as completed successfully.
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+3
+Task = 1
+karunakar_task1 (not completed)
+Description: Wash clothes
+Due Date: 2024-05-25
+
+Task = 2
+java (completed)
+Description: I learned java
+Due Date: 2024-04-22
+
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+4
+Enter the task number to delete:
+2
+Task deleted successfully.
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+1
+Enter the task title:
+hi
+Enter the task description: hello
+Enter task date (YYYY-MM-DD):
+2024-2-02
+Invalid date format. Please try again.
+Enter task date (YYYY-MM-DD):
+2024-05-22
+task added Successfully
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+3
+Task = 1
+karunakar_task1 (not completed)
+Description: Wash clothes
+Due Date: 2024-05-25
+
+Task = 2
+hi (not completed)
+Description: hello
+Due Date: 2024-05-22
+
+
+To Do List
+1. Add a task
+2. Edit a task
+3. View all tasks
+4. Delete a task
+5. Mark task as Complete
+0. Exit
+Enter what to do? :
+0
+Exiting...
+PS C:\Users\Reneee\Desktop\ToDoList> 
